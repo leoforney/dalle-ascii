@@ -1,0 +1,10 @@
+[package]
+name = "dalle-ascii"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+openai-api-rs = "2.1.6"
+reqwest = { version = "0.11.23", features = ["blocking"] }
+bytes = "1.5.0"
+image = "0.24.7"
