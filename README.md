@@ -45,7 +45,7 @@ This Rust project is a simple yet fun application that generates ASCII art from 
 2. Run the program with a prompt:
 
     ```
-    ./target/release/[program name] "Your image prompt"
+    ./target/release/dalle-ascii "Your image prompt"
     ```
 
    Ensure to enclose the prompt in double quotes if it contains spaces.
